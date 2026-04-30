@@ -12,6 +12,13 @@
 ### 📁 STRUCTURE
 >/docs
 - Voici la structure que je vais créer avec tout le contenu déjà rempli :
+```md
+- `/architecture`
+- `/preparation`
+- `/reglages`
+- `/tests`
+- `/maintenance`
+```
 
 ```text
 /docs
@@ -39,3 +46,23 @@
 └── maintenance
     └── entretien.md
 ```
+
+### 📦 Contenu de la documentation
+- Architecture moteur, transmission et châssis
+- Préparation complète 50cc racing
+- Réglages carburation / allumage / transmission
+- Protocoles de tests et fiches de performance
+- Maintenance et suivi long terme
+- Roadmap du projet
+
+### 🏁 Modèle choisi
+**Piaggio Zip SP LC (liquide)**  
+Plateforme reine en compétition 50cc.
+
+### 📅 Roadmap
+1. Démontage complet  
+2. Préparation moteur  
+3. Préparation transmission  
+4. Préparation châssis  
+5. Réglages piste  
+6. Optimisation finale  
