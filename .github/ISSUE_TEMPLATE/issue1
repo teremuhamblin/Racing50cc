@@ -1,0 +1,39 @@
+# 🏁 Issue — Initiation & Configuration Course (v0.1 → v1.0)
+
+## 🎯 Objectif
+Mettre en place les fondations du projet Racing50cc, définir la configuration de course et documenter le type d’utilisation prévu.
+
+---
+
+## 📌 Tâches
+
+### 🔧 1. Initiation de base
+- [x] Créer la structure du projet  
+- [x] Ajouter README.md  
+- [x] Ajouter SPONSORS.md et PARTNERS.md  
+- [x] Créer le wiki tout-en-un  
+- [x] Ajouter FUNDING.yml  
+
+### 🏎 2. Configuration de course
+- [x] Définir la configuration moteur de base  
+- [x] Définir la configuration course (Stage6 / Polini / Girardo)  
+- [x] Documenter les pièces utilisées  
+- [x] Décrire les objectifs de performance  
+
+### 📘 3. Type & utilisation
+- [x] Définir le type d’utilisation (piste / sprint / route fermée)  
+- [x] Documenter les contraintes  
+- [x] Décrire les conditions de roulage  
+
+### 🏁 4. Préparation course
+- [x] Préparer la machine pour les premiers tests  
+- [x] Vérifier sécurité & fiabilité  
+- [x] Documenter les premières observations  
+
+---
+
+## 📦 Livrables
+- Structure complète du projet  
+- Documentation initiale  
+- Configuration course définie  
+- Release v1.0
