@@ -6,8 +6,8 @@ layout: default
 <div align="center">
 
 # 🏁 **RACING50CC**
-### *Piaggio Zip SP
-- Performance • Tuning • Racing*
+### *Piaggio Zip SP*
+*Performance • Tuning • Racing*
 
 <img src="Assets/Images/racing50cc-user.jpg" width="280" alt="Racing50cc">
 
