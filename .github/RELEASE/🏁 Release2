@@ -1,0 +1,59 @@
+# 🏁 Release v3.0 — Configuration Avancée, Performance, Tests Dynamiques & Dashboard
+
+## 🎯 Résumé
+Version majeure du projet Racing50cc intégrant la configuration avancée, les tests dynamiques complets, les simulations et un dashboard de performance.
+
+---
+
+## 🔧 1. Configuration avancée
+- [x] Configuration moteur avancée définie  
+- [x] Transmission optimisée  
+- [x] Carburation avancée réglée  
+- [x] Allumage ajusté (avance & courbes)  
+
+---
+
+## 📈 2. Performance
+- [x] Mesures complètes (accélération, reprise, vitesse max)  
+- [x] Courbes de performance générées  
+- [x] Comparaison v1.x → v2.x → v3.0  
+- [x] Documentation des gains  
+
+---
+
+## 🧪 3. Tests dynamiques
+- [x] Test 0–50 km/h  
+- [x] Test reprise  
+- [x] Test montée  
+- [x] Test endurance  
+- [x] Conditions météo & roulage documentées  
+
+---
+
+## 🧮 4. Simulations
+- [x] Simulation transmission  
+- [x] Simulation accélération  
+- [x] Simulation courbes moteur  
+- [x] Comparaison simulations vs réel  
+
+---
+
+## 📊 5. Dashboard
+- [x] Dashboard performance créé  
+- [x] Intégration des courbes  
+- [x] Intégration des logs  
+- [x] Comparaisons multi‑versions ajoutées  
+
+---
+
+## 📁 Fichiers ajoutés / modifiés
+- /tuning/advanced/  
+- /performance/tests/  
+- /simulations/  
+- /dashboard/  
+- Documentation mise à jour  
+
+---
+
+## 🏆 Statut
+**Version stable — Racing50cc entre dans sa phase avancée.**
