@@ -56,6 +56,6 @@
 
 ### 👤 Auteur
 ```rst
->Projet créé par **TheMadDoG.tmdg**,
-- Préparateur & directeur technique
+Projet créé par **TheMadDoG.tmdg**,
+Préparateur & directeur technique
 ```
