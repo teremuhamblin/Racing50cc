@@ -27,4 +27,5 @@ Toute la documentation est disponible dans le dossier `/docs`.
 - Préparation : ⬜  
 
 ### 👤 Auteur
->Projet créé par **TheMadDoG.tmdg**, - Préparateur & directeur technique.
+>Projet créé par **TheMadDoG.tmdg**,
+- Préparateur & directeur technique.
