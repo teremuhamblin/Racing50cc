@@ -2,26 +2,31 @@
 - Piaggio Zip SP
 
 ### 🏎️ Présentation
-Racing50cc est un projet complet de préparation d’un **Piaggio Zip SP 50cc** destiné à la compétition (run ou circuit).  
-Le projet inclut : documentation technique, build complet, workflow, réglages avancés, analyses de performance et simulations.
+>Racing50cc est un projet complet de préparation d’un **Piaggio Zip SP 50cc** destiné à la compétition (run ou circuit).  
+- Le projet inclut : documentation technique, build complet, workflow, réglages avancés, analyses de performance et simulations.
 
 ---
 
 ### 📂 Structure du projet
-
+```md
 #### Documentation & Architecture
 - **/docs** — Documentation complète (architecture, préparation, réglages, tests, maintenance)
 - **/project** — Workflow, architecture globale, planning
 - **/build** — Liste des pièces + références officielles
 - **/assets** — Logos, schémas, visuels techniques
+```
 
 #### Modules avancés
+```md
 - **/tuning** — Réglages avancés (squish, clapets, plage variateur, météo)
 - **/performance** — Analyses, courbes, logs, données brutes
 - **/simulations** — Projections de performance basées sur les données réelles
+```
 
 #### Tests réels
+```md
 - **/tests_dynamiques** — Scripts de mesures (accélération, pointe, température, transmission)
+```
 
 ---
 
@@ -50,5 +55,7 @@ Le projet inclut : documentation technique, build complet, workflow, réglages a
 ---
 
 ### 👤 Auteur
+```rst
 >Projet créé par **TheMadDoG.tmdg**,
-- Préparateur & directeur technique.
+- Préparateur & directeur technique
+```
