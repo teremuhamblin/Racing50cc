@@ -1,0 +1,9 @@
+[
+  { "name": "bug", "color": "d73a4a", "description": "Erreur ou dysfonctionnement" },
+  { "name": "enhancement", "color": "a2eeef", "description": "Nouvelle fonctionnalité" },
+  { "name": "documentation", "color": "0075ca", "description": "Documentation" },
+  { "name": "task", "color": "cfd3d7", "description": "Tâche simple" },
+  { "name": "milestone", "color": "5319e7", "description": "Objectif versionné" },
+  { "name": "release", "color": "0e8a16", "description": "Préparation de release" },
+  { "name": "improvement", "color": "fbca04", "description": "Amélioration technique" }
+]
