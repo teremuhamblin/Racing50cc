@@ -1,0 +1,16 @@
+# 📝 Changelog — Version {{version}}
+
+## 🚀 Nouveautés
+- ...
+
+## 🛠 Améliorations
+- ...
+
+## 🐞 Corrections
+- ...
+
+## 🔧 Technique
+- ...
+
+## 📚 Documentation
+- ...
