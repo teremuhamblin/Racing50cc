@@ -1,0 +1,26 @@
+body {
+  background: #0d0d0d;
+  color: #f2f2f2;
+  font-family: "Orbitron", sans-serif;
+}
+
+.card {
+  background: #111;
+  border: 1px solid #ff6a00;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+label, select, button {
+  display: block;
+  margin: 8px 0;
+}
+
+button {
+  background: #ff6a00;
+  color: #0d0d0d;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+}
