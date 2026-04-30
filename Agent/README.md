@@ -10,7 +10,7 @@
 
 # 🏁 Racing50cc Agent
 - Version 1.0
-- lacer dans :
+- Placer dans :
 ```rst
 /agent/README.md
 /agent/racing50cc-agent.js
@@ -18,13 +18,8 @@
 
 ---
 
-🟧 1. README.md — Racing50cc Agent
-
-`markdown
-
-Racing50cc Agent
-
-Le Racing50cc Agent est le module central du projet.  
+🟧 1. README.md
+>Le Racing50cc Agent est le module central du projet.  
 Il sert d’assistant interne pour :
 
 - gérer les modules (configurator, simulateur, dashboard)
