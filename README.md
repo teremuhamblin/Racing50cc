@@ -8,8 +8,8 @@
 ---
 
 ### 📂 Structure du projet
-```md
 #### Documentation & Architecture
+```md
 - **/docs** — Documentation complète (architecture, préparation, réglages, tests, maintenance)
 - **/project** — Workflow, architecture globale, planning
 - **/build** — Liste des pièces + références officielles
