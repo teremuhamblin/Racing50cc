@@ -1,0 +1,48 @@
+# 🏁 Issue — Configuration Avancée, Performance, Tests Dynamiques & Dashboard (v2.0 → v3.0)
+
+## 🎯 Objectif
+Mettre en place la configuration avancée du projet Racing50cc, améliorer les performances, effectuer des tests dynamiques et intégrer un dashboard complet basé sur les simulations et les résultats réels.
+
+---
+
+## 📌 Tâches
+
+### 🔧 1. Configuration avancée
+- [x] Définir la configuration moteur avancée  
+- [x] Optimiser la transmission (courroie, galets, ressorts)  
+- [x] Ajuster la carburation avancée  
+- [x] Régler l’allumage (avance, courbes)  
+
+### 📈 2. Performance
+- [x] Mesurer les performances (accélération, reprise, vitesse max)  
+- [x] Comparer configuration v1.x vs v2.x  
+- [x] Documenter les gains obtenus  
+- [x] Générer les courbes de performance  
+
+### 🧪 3. Tests dynamiques
+- [x] Réaliser les tests 0–50 km/h  
+- [x] Réaliser les tests reprise  
+- [x] Réaliser les tests montée  
+- [x] Réaliser les tests endurance  
+- [x] Documenter les conditions météo & roulage  
+
+### 🧮 4. Simulations
+- [x] Simuler la transmission  
+- [x] Simuler les courbes moteur  
+- [x] Simuler l’accélération théorique  
+- [x] Comparer simulations vs résultats réels  
+
+### 📊 5. Dashboard
+- [x] Créer un dashboard performance (HTML/JS ou Markdown)  
+- [x] Intégrer les courbes  
+- [x] Intégrer les logs  
+- [x] Ajouter les comparaisons v1.x / v2.x / v3.0  
+
+---
+
+## 📦 Livrables
+- Configuration avancée complète  
+- Tests dynamiques documentés  
+- Simulations intégrées  
+- Dashboard opérationnel  
+- Release v3.0
