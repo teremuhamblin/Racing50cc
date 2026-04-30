@@ -1,1 +1,9 @@
-github: teremuhamblin
+# Official funding configuration for Racing50cc
+# Sponsors: Stage6 France, Polini France, Girardo France
+
+github: [teremuhamblin]
+
+custom:
+  - https://www.stage6.com
+  - https://www.polini.com
+  - https://www.girardo-racing.fr
