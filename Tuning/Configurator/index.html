@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Configurateur Moteur — Racing50cc</title>
+  <link rel="stylesheet" href="configurator.css">
+</head>
+<body>
+  <h1>Configurateur Moteur — Racing50cc</h1>
+
+  <div class="card">
+    <h2>Configuration</h2>
+
+    <label>Cylindre</label>
+    <select id="cylindre">
+      <option value="base">50cc Street</option>
+      <option value="mid">70cc Mid-Race</option>
+      <option value="high">70cc High-End</option>
+    </select>
+
+    <label>Échappement</label>
+    <select id="echappement">
+      <option value="stage6">Stage6</option>
+      <option value="polini">Polini</option>
+      <option value="girardo">Girardo</option>
+    </select>
+
+    <label>Carburateur</label>
+    <select id="carbu">
+      <option value="17.5">17.5 mm</option>
+      <option value="19">19 mm</option>
+      <option value="21">21 mm</option>
+    </select>
+
+    <label>Utilisation</label>
+    <select id="usage">
+      <option value="street">Street / Daily</option>
+      <option value="sprint">Sprint</option>
+      <option value="track">Piste</option>
+    </select>
+
+    <button id="calc">Calculer le profil</button>
+  </div>
+
+  <div class="card">
+    <h2>Résultat</h2>
+    <p id="profil"></p>
+  </div>
+
+  <script src="configurator.js"></script>
+</body>
+</html>
