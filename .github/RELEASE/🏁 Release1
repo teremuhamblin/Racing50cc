@@ -1,0 +1,47 @@
+# 🏁 Release v1.0 — Initiation & Configuration Course
+
+## 🎯 Résumé
+Première version stable du projet Racing50cc.  
+Cette release couvre l’initiation du projet, la configuration de base, la configuration de course et la documentation du type d’utilisation.
+
+---
+
+## 🔧 Contenu de la release
+
+### 1. Initiation du projet
+- [x] Structure du dépôt créée  
+- [x] README.md ajouté  
+- [x] Wiki complet intégré  
+- [x] FUNDING.yml configuré  
+- [x] SPONSORS.md & PARTNERS.md ajoutés  
+
+### 2. Configuration de course
+- [x] Définition de la configuration moteur  
+- [x] Définition de la configuration course  
+- [x] Documentation des pièces Stage6 / Polini / Girardo  
+- [x] Objectifs de performance établis  
+
+### 3. Type & utilisation
+- [x] Type d’utilisation défini (course / piste)  
+- [x] Contraintes documentées  
+- [x] Conditions de roulage définies  
+
+### 4. Préparation course
+- [x] Machine prête pour premiers tests  
+- [x] Vérifications sécurité & fiabilité  
+- [x] Notes initiales ajoutées  
+
+---
+
+## 📁 Fichiers ajoutés / modifiés
+- README.md  
+- SPONSORS.md  
+- PARTNERS.md  
+- RACING50CC-WIKI.md  
+- FUNDING.yml  
+- Structure dossiers : build/, tuning/, performance/, simulations/, tests/  
+
+---
+
+## 🏆 Statut
+**Version stable — prête pour la suite du développement (v1.1).**
