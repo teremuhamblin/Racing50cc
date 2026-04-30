@@ -1,0 +1,11 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="320" height="80" fill="#0d0d0d"/>
+  <text x="20" y="50" font-family="Orbitron, sans-serif" font-size="32" fill="#ff6a00">
+    RACING
+  </text>
+  <text x="190" y="50" font-family="Orbitron, sans-serif" font-size="32" fill="#f2f2f2">
+    50cc
+  </text>
+  <line x1="20" y1="60" x2="300" y2="60" stroke="#ff6a00" stroke-width="3"/>
+  <polygon points="300,55 315,60 300,65" fill="#ff6a00"/>
+</svg>
