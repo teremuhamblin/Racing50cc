@@ -1,0 +1,13 @@
+# 🎯 Milestone v2.0 → v3.0 — Configuration Avancée, Performance, Tests Dynamiques & Dashboard
+
+Objectif : Mettre en place la configuration avancée du projet Racing50cc, améliorer les performances, réaliser des tests dynamiques complets, intégrer les simulations et créer un dashboard de suivi.
+
+## 🏁 Objectifs du milestone
+
+- [x] Définir la configuration avancée moteur & transmission  
+- [x] Mettre en place les réglages avancés (carburation, variation, allumage)  
+- [x] Réaliser les tests dynamiques complets  
+- [x] Intégrer les simulations (transmission, accélération, courbes)  
+- [x] Créer un dashboard de performance  
+- [x] Documenter les résultats et analyses  
+- [x] Préparer la release v3.0
