@@ -1,14 +1,19 @@
-# 🏁 Partenaires & Sponsors Officiels — Racing50cc
+# 🏁 Sponsors Officiels
+>Racing50cc
 
 ## 🚀 Présentation
-Le projet **Racing50cc — Piaggio Zip SP 50cc Racing** est fier d’annoncer ses **partenaires officiels** pour la saison.  
+Le projet :
+```md
+Racing50cc — Piaggio Zip SP 50cc Racing
+```
+- Est fier d’annoncer ses **partenaires officiels** pour la saison.  
 Ces marques d’excellence soutiennent la performance, l’innovation et l’esprit racing qui définissent notre préparation.
 
 ---
 
-# 🔥 Sponsors Officiels
+## 🔥 Sponsors Officiels
 
-## 🟧 **Stage6 France — Performance Racing**
+### 🟧 **Stage6 France — Performance Racing**
 **Catégorie :** Pièces moteur & transmission hautes performances  
 **Spécialité :** Racing 50cc, compétition, pièces CNC  
 **Contribution :**  
@@ -21,7 +26,7 @@ Stage6 France accompagne le projet dans la recherche de performance pure, avec d
 
 ---
 
-## 🔵 **Piaggio Zip France — Plateforme Officielle**
+### 🔵 **Piaggio Zip France — Plateforme Officielle**
 **Catégorie :** Constructeur & base châssis  
 **Spécialité :** Modèles Zip SP LC  
 **Contribution :**  
@@ -32,7 +37,7 @@ Piaggio Zip France représente la base solide et fiable du projet, reconnue dans
 
 ---
 
-## 🔷 **Polini — Engineering & Racing Heritage**
+### 🔷 **Polini — Engineering & Racing Heritage**
 **Catégorie :** Pièces moteur & transmission  
 **Spécialité :** Compétition 50cc, pièces usinées Italie  
 **Contribution :**  
@@ -43,7 +48,7 @@ Polini apporte son savoir-faire historique dans la performance moteur et la fiab
 
 ---
 
-## 🟨 **Girardi France — Expertise Technique & Préparation**
+### 🟨 **Girardi France — Expertise Technique & Préparation**
 **Catégorie :** Atelier & ingénierie moteur  
 **Spécialité :** Préparation moteur, optimisation, réglages  
 **Contribution :**  
@@ -55,7 +60,7 @@ Girardi France accompagne le projet dans la précision mécanique et l’excelle
 
 ---
 
-# 🏆 Vision Commune
+### 🏆 Vision Commune
 Ces partenaires partagent une même vision :
 - **Performance**
 - **Innovation**
@@ -66,14 +71,14 @@ Leur soutien permet au projet Racing50cc d’atteindre un niveau d’exigence di
 
 ---
 
-# 🤝 Remerciements
+### 🤝 Remerciements
 Un immense merci à **Stage6 France**, **Piaggio Zip France**, **Polini**, et **Girardi France** pour leur confiance et leur engagement.
 
 Ce projet n’existerait pas sans leur soutien.
 
 ---
 
-# 📌 Contact & Collaboration
+### 📌 Contact & Collaboration
 Pour toute demande de partenariat, collaboration ou communication officielle :  
 **Email :** contact@racing50cc.fr  
 **Projet :** Racing50cc — Piaggio Zip SP 50cc Racing
