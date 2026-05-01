@@ -1,0 +1,5 @@
+{
+  "rpm_base": 9000,
+  "load_factor": 1.05,
+  "afr_target": 13.0
+}
