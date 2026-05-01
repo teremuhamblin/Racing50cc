@@ -202,3 +202,95 @@ Objectif : construire progressivement un écosystème complet d’analyse, de si
 - Historique moteur intelligent.
 
 ---
+
+Parfait Teremu — je te crée une ROADMAP.md VISUELLE, moderne, stylée, lisible, avec une mise en page ASCII/Markdown premium, parfaitement alignée avec ton style Racing50cc.
+
+Elle est prête à coller dans ton repo, et elle couvre v1.0.0 → v4.1.0 sous forme de timeline visuelle + tableau synthétique.
+
+---
+
+🗺️ VISUELLE
+Évolution du projet sous forme de timeline visuelle.  
+Versions : v1.0.0 → v4.1.0
+
+---
+
+📌 Timeline Visuelle
+
+v1.0.0 ────────────────●──────────────────────────────────────────────────────────────
+                        Création du projet  
+                        Structure initiale, modules de base
+
+v1.1.0 ─────────────────────────●──────────────────────────────────────────────────────
+                                 Premiers modules techniques  
+                                 Transmission, carbu, thermique
+
+v1.5.0 ───────────────────────────────────●────────────────────────────────────────────
+                                           Réorganisation & structure  
+                                           Dossiers performance / simulations
+
+v2.0.0 ─────────────────────────────────────────────●──────────────────────────────────
+                                                     Tuning avancé  
+                                                     AFR, thermique, zones régime
+
+v2.5.0 ───────────────────────────────────────────────────────●────────────────────────
+                                                               Simulateurs  
+                                                               Transmission, carbu, thermique
+
+v3.0.0 ───────────────────────────────────────────────────────────────●────────────────
+                                                                       Dashboard & analyse  
+                                                                       Comparateur, analyseur
+
+v3.5.0 ─────────────────────────────────────────────────────────────────────●──────────
+                                                                               Track Pack (préparation)  
+                                                                               Gearing, météo, pneus
+
+v4.0.0 ─────────────────────────────────────────────────────────────────────────────●──
+                                                                                       Performance+  
+                                                                                       Optimisation, simulateur dynamique
+
+v4.1.0 ───────────────────────────────────────────────────────────────────────────────────●
+                                                                                           Tests_extras  
+                                                                                           Analysis, calibration, export
+
+---
+
+📊 Tableau Synthétique des Versions
+
+| Version | Nom / Thème | Objectifs | Livrables |
+|--------|--------------|-----------|-----------|
+| v1.0.0 | Création | Initier le projet | Structure, README, modules de base |
+| v1.1.0 | Modules techniques | Ajouter premiers outils | Transmission, carbu, thermique |
+| v1.5.0 | Organisation | Structurer le projet | Dossiers performance/simulations |
+| v2.0.0 | Tuning avancé | Réglages moteur | AFR, thermique, zones régime |
+| v2.5.0 | Simulateurs | Préparer tests dynamiques | Transmission, carbu, thermique |
+| v3.0.0 | Dashboard | Centraliser l’analyse | Dashboard, comparateur, analyseur |
+| v3.5.0 | Track Pack | Préparer réglages piste | Gearing, météo, pneus |
+| v4.0.0 | Performance+ | Optimisation & simulation | Simulateur dynamique, réglages IA |
+| v4.1.0 | Tests_extras | Étendre les tests avancés | Analysis, calibration, export |
+
+---
+
+🔭 Vision Globale (Vue d’ensemble)
+
+`
+v1.x  ─── Base & Structure
+v2.x  ─── Tuning & Simulateurs
+v3.x  ─── Analyse & Dashboard
+v4.x  ─── Optimisation & Tests avancés
+`
+
+---
+
+🚀 Prochaines étapes (teasing v4.2 → v5.0)
+
+- Automatisation des tests avancés  
+- IA interne pour analyse automatique  
+- Track Pack complet  
+- Synchronisation cloud  
+- Historique moteur intelligent  
+
+---
+`
+
+---
