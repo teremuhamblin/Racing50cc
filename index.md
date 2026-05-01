@@ -9,7 +9,7 @@ layout: default
 ### *Piaggio Zip SP*
 *Performance • Tuning • Racing*
 
-<img src="Assets/Images/racing50cc-user.jpg" width="280" alt="Racing50cc">
+<img src="Assets/Images/racing50cc-user.jpg" width="140" alt="Racing50cc">
 
 ---
 
