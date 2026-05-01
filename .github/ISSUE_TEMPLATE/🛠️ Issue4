@@ -1,0 +1,14 @@
+# 🛠️ Issue — v4.0 — Performance+, Simulation+, Optimisation+
+
+## Description
+Développer un module complet regroupant optimisation moteur avancée, simulation dynamique, réglages intelligents et analyse de performance.
+
+## ✔️ Checklist (déjà remplie)
+- [x] Création du module d’optimisation moteur avancée  
+- [x] Ajout du simulateur dynamique (météo, piste, charge moteur)  
+- [x] Système de réglages intelligents (IA interne)  
+- [x] Dashboard Performance+  
+- [x] Comparateur de runs (avant / après)  
+- [x] Analyseur AFR / T°C / RPM  
+- [x] Documentation mise à jour  
+- [x] Tests rapides validés
