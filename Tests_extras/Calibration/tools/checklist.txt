@@ -1,0 +1,5 @@
+Outils nécessaires :
+- Clé dynamométrique
+- Thermomètre laser
+- Sonde AFR calibrée
+- Gabarit d’alignement chaîne
