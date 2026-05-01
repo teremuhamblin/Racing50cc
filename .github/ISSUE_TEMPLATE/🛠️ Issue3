@@ -1,0 +1,23 @@
+🛠️ Issue — v3.0 → v4.0 : Optimisation, Simulation & Performance
+
+Titre :  
+✨ Module avancé : Optimisation + Simulation + Réglages + Performance
+
+Description :  
+Développer un module complet permettant d’optimiser le moteur, simuler des scénarios, proposer des réglages intelligents et analyser les performances en temps réel ou via import de données.
+
+---
+
+✔️ Checklist (déjà remplie)
+
+- [x] Création du module Optimisation moteur avancée  
+- [x] Ajout du simulateur dynamique (météo, piste, charge)  
+- [x] Système de réglages intelligents (recommandations auto)  
+- [x] Analyseur de performance (RPM, vitesse, AFR, T°C)  
+- [x] Comparateur de runs (avant / après réglage)  
+- [x] Intégration dashboard v3.0  
+- [x] Préparation Track Pack v4.0  
+- [x] Documentation simple & moderne  
+- [x] Tests rapides (simulation + optimisation)
+
+---
