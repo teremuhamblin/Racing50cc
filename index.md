@@ -25,11 +25,10 @@ Optimisation moteur • Transmission • Tests dynamiques • Analyses • Simul
 
 # 🧩 Présentation
 
-**Racing50cc** est un projet dédié à la performance mécanique autour d’un **Piaggio Zip SP 50cc**.  
-Objectif : créer une machine optimisée, documentée, testée, et poussée au maximum de ses capacités.
+>**Racing50cc** est un projet dédié à la performance mécanique autour d’un **Piaggio Zip SP 50cc**.  
+- Objectif : créer une machine optimisée, documentée, testée, et poussée au maximum de ses capacités.
 
-Le projet inclut :
-
+>Le projet inclut :
 - Préparation moteur complète  
 - Réglages avancés (carburation, variation, allumage)  
 - Analyse de performance & courbes  
@@ -41,9 +40,7 @@ Le projet inclut :
 ---
 
 # 🔧 Configuration & Build
-
-Retrouve toutes les configurations testées :
-
+>Retrouve toutes les configurations testées :
 - Bas moteur  
 - Haut moteur  
 - Carburation  
@@ -57,9 +54,7 @@ Retrouve toutes les configurations testées :
 ---
 
 # 🎯 Tuning & Réglages
-
-Documentation complète des réglages :
-
+>Documentation complète des réglages :
 - Variation  
 - Galets  
 - Ressorts  
@@ -72,9 +67,7 @@ Documentation complète des réglages :
 ---
 
 # 📈 Performance & Tests
-
-Analyses :
-
+>Analyses :
 - Courbes de puissance  
 - Accélération  
 - Vitesse max  
@@ -86,9 +79,7 @@ Analyses :
 ---
 
 # 🧪 Simulations
-
-Modèles théoriques :
-
+>Modèles théoriques :
 - Transmission  
 - Accélération  
 - Courbes moteur  
@@ -114,19 +105,17 @@ Modèles théoriques :
 ---
 
 # 🤝 Partenaires
-
 👉 Voir : **PARTNERS.md**
 
 ---
 
 # 🗺 Roadmap
-
+```md
 - v1.0 — Base  
-- v1.1 — Tuning avancé  
-- v1.2 — Performance & logs  
-- v1.3 — Simulations  
-- v1.4 — Tests dynamiques  
-- v1.5 — Version complète Racing  
+- v2.0 — Tuning avancé  
+- v3.0 — Performance & logs  
+- v4.0 — Simulations
+```
 
 👉 Voir : **ROADMAP.md**
 
