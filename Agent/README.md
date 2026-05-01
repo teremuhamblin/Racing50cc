@@ -13,7 +13,7 @@
 - Placer dans :
 ```rst
 /agent/README.md
-/agent/racing50cc-agent.js
+/agent/agent.js
 ```
 
 ---
