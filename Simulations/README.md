@@ -48,3 +48,31 @@ Les simulations ne remplacent pas les tests réels mais permettent :
 - D’éviter des erreurs de réglage
 - De prévoir les performances
 - D’orienter les choix techniques
+
+# Simulations/ (mise à jour)
+>regroupe l’ensemble des simulateurs utilisés pour prédire, analyser et optimiser le comportement du moteur, de la transmission et de la température sur Racing50cc.
+
+## 📁 Sous-dossiers
+
+### engine/
+Simulations moteur : régime, charge, AFR, comportement dynamique.
+
+### transmission/
+Simulations de transmission : pignon/couronne, vitesse théorique, ratio final.
+
+### thermal/
+Modélisation thermique : température culasse, stabilité thermique, montée en charge.
+
+### templates/
+Modèles d’exports et rapports de simulation.
+
+## 🎯 Objectifs
+- Prédire le comportement moteur dans différentes conditions.
+- Tester virtuellement des configurations avant les runs réels.
+- Optimiser la transmission et les réglages.
+- Analyser la stabilité thermique.
+
+## ✔️ Statut
+- Structure complète
+- Scripts fonctionnels
+- Templates prêts à l’usage
