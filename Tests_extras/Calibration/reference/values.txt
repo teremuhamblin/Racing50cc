@@ -1,0 +1,5 @@
+# Valeurs de référence — Calibration Racing50cc
+
+AFR idéal : 12.8 - 13.2
+Température culasse : 140°C - 165°C
+Régime optimal : 9000 - 10500 RPM
