@@ -1,0 +1,5 @@
+# Valeurs thermiques de référence — Racing50cc
+
+Température culasse idéale : 140°C - 165°C
+Température critique : > 180°C
+Airflow optimal : 10 - 15 m/s
